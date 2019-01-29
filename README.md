@@ -1,5 +1,5 @@
 # boxy-bootstrap
-The latest BOXY Coin Blockchain Bootstrap
+The latest BOXY Coin blockchain bootstrap and boxy.conf sample file.
 
 ## Jan 30.2019 - https://bootstrap.boxyco.in/bootstrap.dat
 
