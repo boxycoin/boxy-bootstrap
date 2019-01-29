@@ -1,0 +1,35 @@
+################################
+# basic settings
+################################
+txindex=1
+logtimestamps=1
+listen=1
+daemon=1
+staking=1
+gen=0
+maxconnections=256
+port=121523
+
+#############################
+# nodes we want to stick to
+#############################
+addnode=165.227.5.35
+addnode=167.99.108.112
+addnode=68.183.123.147
+addnode=68.183.123.146
+
+#############################
+# optional indices
+#############################
+addressindex=1
+timestampindex=1
+spentindex=1
+
+#############################
+# JSONRPC
+#############################
+server=1
+rpcuser=XXX_GIT_PROJECT_XXXrpc
+rpcpassword=XXX_PASS_XXX
+rpcallowip=0.0.0.0
+rpcport=121528
