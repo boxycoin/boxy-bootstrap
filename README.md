@@ -8,7 +8,7 @@ A bootstrap is a quick way to get your wallet synced to the blockchain. Generall
 
 ## Installation on Windows
 1. Stop your BOXY wallet by clicking "File" and then "Exit".
-2. Navigate to BOXY wallet resource folder using Finder. Generally in C:\Users\<User-Name\AppData\Roaming\Boxy\
+2. Navigate to BOXY wallet resource folder. Generally in C:\Users\<User-Name\AppData\Roaming\Boxy\
 3. Delete all files except boxy.conf and wallet.dat
 4. Download the Bootstrap and move to the BOXY resource folder. - https://bootstrap.boxyco.in/bootstrap.dat
 5. Start your BOXY wallet.
