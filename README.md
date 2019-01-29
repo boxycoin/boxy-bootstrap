@@ -3,6 +3,9 @@ The latest BOXY Coin Blockchain Bootstrap
 
 ## Jan 30.2019 - https://bootstrap.boxyco.in/bootstrap.dat
 
+## What is a blockchain bootstrap?
+A bootstrap is a quick way to get your wallet synced to the blockchain faster than downloading the entire chain from peers.
+
 ## Installation on Windows
 1. Stop your BOXY wallet by clicking "File" and then "Exit".
 2. Navigate to BOXY wallet resource folder using Finder. Generally in C:\Users\<User-Name\AppData\Roaming\Boxy\
