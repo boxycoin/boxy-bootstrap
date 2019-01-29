@@ -4,7 +4,7 @@ The latest BOXY Coin Blockchain Bootstrap
 ## Jan 30.2019 - https://bootstrap.boxyco.in/bootstrap.dat
 
 ## What is a blockchain bootstrap?
-A bootstrap is a quick way to get your wallet synced to the blockchain. Generally, downloading and applying a bootstrap file is faster than downloading the blockchain chain from BOXY network peers.
+A bootstrap is a quick way to get your wallet synced to the blockchain. Generally, downloading and applying a bootstrap file is faster than downloading the blockchain from BOXY network peers.
 
 ## Installation on Windows
 1. Stop your BOXY wallet by clicking "File" and then "Exit".
